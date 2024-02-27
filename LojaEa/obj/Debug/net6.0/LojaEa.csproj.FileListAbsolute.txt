@@ -1,0 +1,14 @@
+C:\Users\user\Produtoc#\LojaEa\bin\Debug\net6.0\LojaEa.exe
+C:\Users\user\Produtoc#\LojaEa\bin\Debug\net6.0\LojaEa.deps.json
+C:\Users\user\Produtoc#\LojaEa\bin\Debug\net6.0\LojaEa.runtimeconfig.json
+C:\Users\user\Produtoc#\LojaEa\bin\Debug\net6.0\LojaEa.dll
+C:\Users\user\Produtoc#\LojaEa\bin\Debug\net6.0\LojaEa.pdb
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\LojaEa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\LojaEa.AssemblyInfoInputs.cache
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\LojaEa.AssemblyInfo.cs
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\LojaEa.csproj.CoreCompileInputs.cache
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\LojaEa.dll
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\refint\LojaEa.dll
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\LojaEa.pdb
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\LojaEa.genruntimeconfig.cache
+C:\Users\user\Produtoc#\LojaEa\obj\Debug\net6.0\ref\LojaEa.dll
